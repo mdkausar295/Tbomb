@@ -70,7 +70,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/Hackertrackersj/Tbomb
+git clone https://github.com/mdkausar295/Tbomb.git
 cd TBomb
 chmod +x TBomb.sh
 sudo bash TBomb.sh
@@ -90,7 +90,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/Hackertrackersj/Tbomb
+git clone https://github.com/mdkausar295/Tbomb.git
 cd TBomb
 chmod +x TBomb.sh
 
@@ -103,15 +103,13 @@ Toilet cannot be installed yet. But TBomb does still work.
 sudo bash TBomb.sh
 ```
 
-## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://youtu.be/gq7NKkNYuVA">here</a><br>
 
 
 ## CONTRIBUTORS:
 
 - **SpeedX**<br>
-[-] Mail At:https://github.com/Hackertrackersj/Tbomb
+[-] Mail At:https://github.com/mdkausar295/Tbomb.git
 
 
 
@@ -123,8 +121,8 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail:https://github.com/Hackertrackersj/Tbomb
-       YouTube Channel:https://www.youtube.com/channel/UCqqNyOaX6Dxwg5e6Bf6reSw
+                 Mail:https://github.com/mdkausar295/Tbomb.git
+      
 ```
 
 <a href="https:
